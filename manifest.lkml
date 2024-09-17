@@ -1,4 +1,4 @@
-project_name: "glew_looker_shopify"
+project_name: "glew_looker_shopify_sf"
 
 # glew accounts
 local_dependency: {

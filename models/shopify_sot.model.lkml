@@ -1,7 +1,7 @@
-connection: "silo_routing"
+connection: "snowflake_dev"
 include: "/**/*.view.lkml"                 # include all views in this project
 include: "//glew_looker_glew/views/*.view.lkml"
-include: "//glew_looker_shopify/views/*.view.lkml"
+include: "//glew_looker_shopify_sf/views/*.view.lkml"
 
 
 explore:  mv_shopify_sales {

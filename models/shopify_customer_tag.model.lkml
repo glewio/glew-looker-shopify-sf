@@ -1,4 +1,4 @@
-connection: "silo_routing"
+connection: "snowflake_dev"
 include: "/**/*.view.lkml"                 # include all views in this project
 include: "//glew_looker_glew/views/*.view.lkml"
 
