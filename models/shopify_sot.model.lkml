@@ -1,7 +1,7 @@
 connection: "snowflake_dev"
 include: "/**/*.view.lkml"                 # include all views in this project
 include: "//glew_looker_glew/views/*.view.lkml"
-include: "//glew_looker_shopify_sf/views/*.view.lkml"
+include: "//glew_looker_shopify_snowflake/views/*.view.lkml"
 
 
 explore:  mv_shopify_sales {
