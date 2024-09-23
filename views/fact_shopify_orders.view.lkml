@@ -1,6 +1,6 @@
 view: fact_shopify_orders {
   sql_table_name: fact_shopify_orders ;;
-  view_label: "Shopify Orders"
+  view_label: "Shopify Orders - Snowflake"
 
 ######## COMPARISON DATE RANGE DIMENSIONS/FILTERS #######
 

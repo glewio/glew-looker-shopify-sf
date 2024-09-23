@@ -8,7 +8,7 @@ explore: fact_shopify_order_items {
     field: glew_account_id
     user_attribute: glew_account_id
   }
-  label: "Orders"
+  label: "Orders - Snowflake"
   group_label: "Shopify"
   description: "View/Report on your Shopify transaction data on the order and order product level with this explore"
 
